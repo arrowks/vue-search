@@ -16,7 +16,7 @@
 
 <script>
 // export defult是es6中的方法，将整个花括号对象暴露出去;
-export default 
+export default {
     data: function() {
         return {
             selectedNow: 0,
@@ -55,7 +55,7 @@ ul{list-style: none;padding: 0;margin: 0}
     width: 600px;
     height: 140px;
     position: relative;
-    margin: 0 auto;
+    margin: 0
 }
 
 .main-logo img {
