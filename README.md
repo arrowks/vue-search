@@ -1,7 +1,6 @@
 一个简易的搜索大全页面
 ----
 
-[react版demo](http://github.com/lavyun/react-demo-search)
 
 #### 效果
 
@@ -18,5 +17,4 @@
 > 2. 输入命令npm install(最好使用cnpm淘宝镜像)
 > 3. 输入命令npm run dev
 
-* [演示地址](http://cs003.m2828.com/demo/360Search)
 
